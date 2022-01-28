@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-LINUX_VERSION = $(call qstrip,$(BR2_LINUX_KERNEL_VERSION))
+LINUX_VERSION = 5.15.2
 LINUX_LICENSE = GPL-2.0
 ifeq ($(BR2_LINUX_KERNEL_LATEST_VERSION),y)
 LINUX_LICENSE_FILES = \
