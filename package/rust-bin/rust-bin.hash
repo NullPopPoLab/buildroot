@@ -65,6 +65,10 @@ sha256  d85afb14120c3c7367338a565a920db653dccd4bc5062398791d7b62b89fd1fd  rust-s
 sha256  5f106805ed86ebf8df287039e53a45cf974391ef4d088c2760776b05b8e48b5d  rust-std-1.92.0-x86_64-unknown-linux-gnu.tar.xz
 # From https://static.rust-lang.org/dist/rust-std-1.92.0-x86_64-unknown-linux-musl.tar.xz.sha256
 sha256  11f0b7efccdb5e7972e3c0fc23693a487abc28b624675c08161d055a016d527e  rust-std-1.92.0-x86_64-unknown-linux-musl.tar.xz
+# From https://static.rust-lang.org/dist/rust-1.96.0-x86_64-unknown-linux-gnu.tar.xz.sha256
+sha256  c295047583a56238ea06b43f849f4b877fa12bfd4c7103f8d9a74c94c9c4e108  rust-1.96.0-x86_64-unknown-linux-gnu.tar.xz
+# From https://static.rust-lang.org/dist/rust-std-1.96.0-x86_64-unknown-linux-gnu.tar.xz.sha256
+sha256  c09c7c646248f14f473f5f7a029af15ee57c3a9f9bc93dfa72d9621938586b82  rust-std-1.96.0-x86_64-unknown-linux-gnu.tar.xz
 # Locally generated
 sha256  62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a  LICENSE-APACHE
 sha256  23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3  LICENSE-MIT
